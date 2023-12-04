@@ -125,8 +125,9 @@ header{
 }
 .block-1-title-column{
     color: var(--text-colour-1);
-    font-size: 57.3px;
+    font-size: 57px;
     width: 580px;
+
 }
 .block-1-text-info-column{
     color: var(--text-colour-3);
